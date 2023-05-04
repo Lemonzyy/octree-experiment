@@ -6,6 +6,7 @@ license = "MIT OR Apache-2.0"
 
 [dependencies]
 bevy = "0.10.1"
+bevy-inspector-egui = "0.18.3"
 bevy_prototype_debug_lines = { version = "0.10.1", features = ["3d"] }
 grid-tree = { git = "https://github.com/Lemonzyy/grid-tree-rs" }
 rand = "0.8.5"
